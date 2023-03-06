@@ -1,2 +1,2 @@
-# Graph-Learning
-图学习相关论文阅读笔记
+# Graph-Learning Paper
+- When Does Self-Supervision Help Graph Convolutional Networks?
